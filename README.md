@@ -1,2 +1,6 @@
-# LeetCode
- LeetCode Python（个人记录，非最优解法）
+暂未系统学习算法，先提前用python熟悉一下LeetCode，解法一般都不是最优。
+
+第二题node愣是没搞明白啥意思，后来才看懂是~~n.val = n.next~~
+> 。。。才看懂是n = n.next，真成小白了🤣，不过思路还是有的，只是不会语法
+
+~~没学过算法就用Python? 第一个hard题直接列表相加再sort~~
